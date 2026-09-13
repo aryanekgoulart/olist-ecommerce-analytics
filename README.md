@@ -438,14 +438,6 @@ O conjunto possui informações sobre:
 
 ---
 
-## 👩‍💻 Autora
-
-**Aryane K. Goulart**
-
-Profissional de TI com experiência em **SQL, ERP Sankhya, Power BI e Python**, com foco em análise de dados, automação e desenvolvimento de soluções orientadas a dados.
-
----
-
 ## 📄 Licença e uso
 
 Este projeto foi desenvolvido exclusivamente para fins de estudo e portfólio, utilizando um dataset público.
